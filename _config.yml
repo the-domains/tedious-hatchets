@@ -10,9 +10,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.1899642
 color:
   saturation: 0.90681
-  brandStrength: 0.1846904908306897
+  brandStrength: 1
   lightness: 0.1433692
   brandColors:
     - '#FFFFFF'
@@ -21,6 +22,5 @@ color:
     - '#8D2026'
     - '#D4BEA2'
   rhythmicContrast: 0.09828466
-typography_spectrum: 0.1899642
 layout_spectrum: 0.1208946637343615
 name: tedious hatchets
