@@ -1,26 +1,26 @@
-color:
-  saturation: 0.5310519167687744
-  brandStrength: 0.1846904908306897
-  rhythmicContrast: 0.09828466386534274
-  brandColors:
-    - '#FFFFFF'
-    - '#241A1B'
-    - '#777E84'
-    - '#8D2026'
-    - '#D4BEA2'
-  lightness: 0.8625420196913183
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+color:
+  saturation: 0.90681
+  brandStrength: 0.1846904908306897
+  lightness: 0.1433692
+  brandColors:
+    - '#FFFFFF'
+    - '#241A1B'
+    - '#777E84'
+    - '#8D2026'
+    - '#D4BEA2'
+  rhythmicContrast: 0.09828466
+typography_spectrum: 0.1899642
 layout_spectrum: 0.1208946637343615
-typography_spectrum: 0.4870421492960304
 name: tedious hatchets
